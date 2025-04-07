@@ -1,0 +1,16 @@
+"C:\Program Files\JetBrains\CLion 2024.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\Rochel\Desktop\Diretório_Rochel\Code\C\ESTRUTURA_DE_DADOS_I\TRABALHOS_DE_IMPLEMENTAÇÃO\ED1_IMPLEMENTAÇÃO_2_COLEÇÃO_GENERICA -B C:\Users\Rochel\Desktop\Diretório_Rochel\Code\C\ESTRUTURA_DE_DADOS_I\TRABALHOS_DE_IMPLEMENTAÇÃO\ED1_IMPLEMENTAÇÃO_2_COLEÇÃO_GENERICA\cmake-build-debug
+CMake Error at CMakeLists.txt:1 (make_minimum_required):
+  Unknown CMake command "make_minimum_required".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.30)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring incomplete, errors occurred!
