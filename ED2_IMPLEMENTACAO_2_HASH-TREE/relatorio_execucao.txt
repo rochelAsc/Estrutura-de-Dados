@@ -1,0 +1,14 @@
+RELATÓRIO DE EXECUÇÃO
+---------------------
+Total de transações inseridas: 3000000
+Tamanho da tabela hash: 10007
+Tempo total de execução (ms): 756,977
+Número de comparações: 10955809
+Número de atribuições: 23362907
+Total de árvores AVL: 0
+Total de árvores Rubro-Negras: 100
+
+Observações:
+- Registros com mais de 3 colisões em 'origem' migraram para AVL.
+- AVLs com altura > 10 foram migradas para Rubro-Negras.
+- Comparações e atribuições contabilizadas durante a inserção.
