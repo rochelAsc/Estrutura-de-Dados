@@ -16,19 +16,19 @@ public interface TreeInterface {
     List<Transacao> searchByOrigem(String origem);
 
     /**
-     * Busca as transações para uma origem dentro de um intervalo de datas.
-     * O intervalo inclui as datas de início e fim.
+     * Busca as transações para uma origem dentro de um intervalo de datas
+     * O intervalo inclui as datas de início e fim
      */
     List<Transacao> searchByIntervalo(String origem, String dataInicio, String dataFim);
 
     /**
-     * Retorna a altura da árvore.
+     * Retorna a altura da árvore
      */
     int getAltura();
 
     /**
-     * Indica se a árvore deve ser convertida em Rubro-Negra.
-     * No caso da AVL, isso acontece se a altura for maior que 10.
+     * Indica se a árvore deve ser convertida em Rubro-Negra
+     * No caso da AVL, isso acontece se a altura for maior que 10
      */
     boolean precisaMigrarParaRubroNegra();
 }
