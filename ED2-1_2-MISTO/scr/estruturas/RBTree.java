@@ -29,7 +29,7 @@ public class RBTree<AnyType extends Comparable<AnyType>> {
     public RBTree(){this.root = null;}
 
     public void leftRotate(NoRN<AnyType> x) {
-        NoRN<AnyType> y = x.direita; 
+        NoRN<AnyType> y = x.direita;
         x.direita = y.esquerda;
 
         if (y.esquerda != null) {
