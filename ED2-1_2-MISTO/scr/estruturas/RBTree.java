@@ -72,5 +72,202 @@ public class RBTree<AnyType extends Comparable<AnyType>> {
         x.pai = y;
     }
 
+    public void rbInsert(NoRN<AnyType> z) {
+        NoRN<AnyType> y = null;
+        NoRN<AnyType> x = root;
+
+        while (x != null) {
+            y = x;
+            if (z.elemento.compareTo(x.elemento) < 0) {
+                x = x.esquerda;
+            } else {
+                x = x.direita;
+            }
+        }
+
+        z.pai = y;
+
+        if (y == null) {
+            root = z;
+        } else if (z.elemento.compareTo(y.elemento) < 0) {
+            y.esquerda = z;
+        } else {
+            y.direita = z;
+        }
+
+        z.esquerda = null;
+        z.direita = null;
+
+        z.cor = VERMELHO;
+
+        rbInsertFixup(z);
+    }
+
+    public void rbInsertFixup(NoRN<AnyType> z) {
+        while (z.pai != null && z.pai.cor == VERMELHO) {
+            if (z.pai == z.pai.pai.esquerda) {
+                NoRN<AnyType> y = z.pai.pai.direita;
+                if (y != null && y.cor == VERMELHO) {
+                    z.pai.cor = PRETO;
+                    y.cor = PRETO;
+                    z.pai.pai.cor = VERMELHO;
+                    z = z.pai.pai;
+                } else {
+                    if (z == z.pai.direita) {
+                        z = z.pai;
+                        leftRotate(z);
+                    }
+                    z.pai.cor = PRETO;
+                    z.pai.pai.cor = VERMELHO;
+                    rightRotate(z.pai.pai);
+                }
+            } else {
+                NoRN<AnyType> y = z.pai.pai.esquerda;
+                if (y != null && y.cor == VERMELHO) {
+                    z.pai.cor = PRETO;
+                    y.cor = PRETO;
+                    z.pai.pai.cor = VERMELHO;
+                    z = z.pai.pai;
+                } else {
+                    if (z == z.pai.esquerda) {
+                        z = z.pai;
+                        rightRotate(z);
+                    }
+                    z.pai.cor = PRETO;
+                    z.pai.pai.cor = VERMELHO;
+                    leftRotate(z.pai.pai);
+                }
+            }
+        }
+
+        root.cor = PRETO;
+    }
+
+    public NoRN<AnyType> rbDelete(NoRN<AnyType> z) {
+        NoRN<AnyType> y;
+        NoRN<AnyType> x;
+
+        if (z.esquerda == null || z.direita == null) {
+            y = z;
+        } else {
+            y = treeSuccessor(z);
+        }
+
+        if (y.esquerda != null) {
+            x = y.esquerda;
+        } else {
+            x = y.direita;
+        }
+
+        if (x != null) {
+            x.pai = y.pai;
+        }
+
+        if (y.pai == null) {
+            root = x;
+        } else if (y == y.pai.esquerda) {
+            y.pai.esquerda = x;
+        } else {
+            y.pai.direita = x;
+        }
+
+        if (y != z) {
+            z.elemento = y.elemento;
+        }
+
+        if (y.cor == PRETO) {
+            rbDeleteFixup(x);
+        }
+
+        return y;
+    }
+
+    public NoRN<AnyType> treeSuccessor(NoRN<AnyType> z) {
+        if (z.direita != null) {
+            return treeMin(z.direita);
+        }
+
+        NoRN<AnyType> y = z.pai;
+        while (y != null && z == y.direita) {
+            z = y;
+            y = y.pai;
+        }
+        return y;
+    }
+
+    public NoRN<AnyType> treeMin(NoRN<AnyType> x) {
+        while (x.esquerda != null) {
+            x = x.esquerda;
+        }
+        return x;
+    }
+
+    public void rbDeleteFixup(NoRN<AnyType> x) {
+        while (x != root && x.cor == PRETO) {  
+            if (x == x.pai.esquerda) {
+                NoRN<AnyType> w = x.pai.direita;
+
+                if (w.cor == VERMELHO) {
+                    w.cor = PRETO;
+                    x.pai.cor = VERMELHO;
+                    leftRotate(x.pai);
+                    w = x.pai.direita;
+                }
+
+                if (w.esquerda.cor == PRETO && w.direita.cor == PRETO) {
+                    w.cor = VERMELHO;
+                    x = x.pai;
+                } else {
+                    if (w.direita.cor == PRETO) {
+                        w.esquerda.cor = PRETO;
+                        w.cor = VERMELHO;
+                        rightRotate(w);
+                        w = x.pai.direita;
+                    }
+
+                    w.cor = x.pai.cor;
+                    x.pai.cor = PRETO;
+                    w.direita.cor = PRETO;
+                    leftRotate(x.pai);
+                    x = root;
+                }
+            } else {
+                NoRN<AnyType> w = x.pai.esquerda;
+
+                if (w.cor == VERMELHO) {
+                    w.cor = PRETO;
+                    x.pai.cor = VERMELHO;
+                    rightRotate(x.pai);
+                    w = x.pai.esquerda;
+                }
+
+                if (w.direita.cor == PRETO && w.esquerda.cor == PRETO) {
+                    w.cor = VERMELHO;
+                    x = x.pai;
+                } else {
+                    if (w.esquerda.cor == PRETO) {
+                        w.direita.cor = PRETO;
+                        w.cor = VERMELHO;
+                        leftRotate(w);
+                        w = x.pai.esquerda;
+                    }
+
+                    w.cor = x.pai.cor;
+                    x.pai.cor = PRETO;
+                    w.esquerda.cor = PRETO;
+                    rightRotate(x.pai);
+                    x = root;
+                }
+            }
+        }
+
+        x.cor = PRETO;
+    }
+
+
+
+
+
+
 
 }
