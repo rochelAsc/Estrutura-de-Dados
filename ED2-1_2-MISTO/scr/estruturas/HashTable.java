@@ -3,7 +3,7 @@ package estruturas;
 import java.util.LinkedList;
 
 public class HashTable<AnyType> {
-    private LinkedList<Entry<AnyType>>[] tabela;  
+    private LinkedList<Entry<AnyType>>[] tabela;
     private int capacidade;
     private int tamanho;
 
