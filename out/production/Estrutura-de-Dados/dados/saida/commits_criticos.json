@@ -1,0 +1,7002 @@
+[
+  {
+    "hash": "crit0-b65bd6d",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 0,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit1-04b58b4",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 1,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit2-8be6e82",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 2,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit3-f9588d3",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 3,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit4-5d4be1b",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 4,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit5-ccadca6",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 5,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit6-3736a83",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 6,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit7-0ced668",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 7,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit8-c89ea5e",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 8,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit9-4c4f9d8",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 9,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit10-ef73e00",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 10,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit11-5bf64d6",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 11,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit12-dfa30f0",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 12,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit13-3a9412d",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 13,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit14-db6ffff",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 14,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit15-69ede3e",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 15,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit16-722fea0",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 16,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit17-54f578b",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 17,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit18-31dca9e",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 18,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit19-87b6b99",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 19,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit20-e0be6d7",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 20,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit21-074ed76",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 21,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit22-1d27ba3",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 22,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit23-e89f6a2",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 23,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit24-9ba00b0",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 24,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit25-45a3886",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 25,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit26-048f6d7",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 26,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit27-5c123ec",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 27,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit28-61f7e59",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 28,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit29-37415a2",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 29,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit30-7784f6b",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 30,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit31-7e10841",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 31,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit32-c6467df",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 32,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit33-9048f52",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 33,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit34-d964d2f",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 34,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit35-81c72fe",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 35,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit36-460cbdc",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 36,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit37-096c7ce",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 37,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit38-348f7f8",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 38,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit39-8da630a",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 39,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit40-a6481a1",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 40,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit41-af742f5",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 41,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit42-e1193ae",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 42,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit43-3f3f846",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 43,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit44-e319e0b",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 44,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit45-cbb405d",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 45,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit46-01557a1",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 46,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit47-7efdff6",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 47,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit48-05fa358",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 48,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit49-95221d9",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 49,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit50-b0987f9",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 50,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit51-1e76955",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 51,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit52-1b631f4",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 52,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit53-6f6b756",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 53,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit54-e5cfba6",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 54,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit55-b7344fc",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 55,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit56-41b2563",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 56,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit57-9122d73",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 57,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit58-7195df8",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 58,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit59-448c585",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 59,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit60-232e3d0",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 60,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit61-bcfc984",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 61,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit62-218145d",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 62,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit63-179e048",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 63,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit64-115ed84",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 64,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit65-9943b66",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 65,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit66-6ebbd0c",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 66,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit67-8f8a3e3",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 67,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit68-6e1a5bf",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 68,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit69-2e3bffe",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 69,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit70-695c970",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 70,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit71-251d442",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 71,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit72-3ad8c0a",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 72,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit73-3a0aaa2",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 73,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit74-eda63d2",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 74,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit75-9b5168a",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 75,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit76-f86743a",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 76,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit77-ceca29b",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 77,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit78-c43bfb0",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 78,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit79-5811fe4",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 79,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit80-e8b8ff1",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 80,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit81-d7ed697",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 81,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit82-8f86f54",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 82,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit83-f1872fa",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 83,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit84-47b5321",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 84,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit85-794a4b3",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 85,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit86-47d44cd",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 86,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit87-c053bef",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 87,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit88-26025eb",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 88,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit89-f857905",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 89,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit90-fc42fde",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 90,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit91-78872ac",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 91,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit92-23696dd",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 92,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit93-91ded75",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 93,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit94-def5e1f",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 94,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit95-7dde920",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 95,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit96-c230a01",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 96,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit97-7a1923d",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 97,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit98-37311b3",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 98,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit99-73117a1",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 99,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit100-6a4dcfc",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 100,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit101-14ac0e0",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 101,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit102-fd3e0b0",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 102,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit103-403e18c",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 103,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit104-ea5c049",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 104,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit105-88117b6",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 105,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit106-5fd0d8a",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 106,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit107-3a9843d",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 107,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit108-e24190e",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 108,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit109-68d28ed",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 109,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit110-d234b2f",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 110,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit111-e3dcdf8",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 111,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit112-30a4e23",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 112,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit113-18fb8f4",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 113,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit114-f4dfd56",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 114,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit115-8477625",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 115,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit116-e1509d7",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 116,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit117-7daae4c",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 117,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit118-f21230e",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 118,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit119-16db910",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 119,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit120-f0197a0",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 120,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit121-7bb9995",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 121,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit122-aead616",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 122,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit123-6157b22",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 123,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit124-8fc06d0",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 124,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit125-c01bf82",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 125,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit126-adfdaab",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 126,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit127-8847e6d",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 127,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit128-80f2b65",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 128,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit129-3f2a2b0",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 129,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit130-0df2d34",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 130,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit131-347e19d",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 131,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit132-70153c9",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 132,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit133-18a76ac",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 133,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit134-1d81a24",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 134,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit135-a4bca68",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 135,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit136-9fea4d6",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 136,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit137-fbf0bcf",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 137,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit138-eb2c632",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 138,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit139-44ba7b6",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 139,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit140-055e337",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 140,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit141-4322c31",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 141,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit142-da6a765",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 142,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit143-25ccce6",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 143,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit144-28fb52f",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 144,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit145-de6247a",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 145,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit146-7c6b5ac",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 146,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit147-5d85d91",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 147,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit148-6f5a174",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 148,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit149-267e7a7",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 149,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit150-bf2d24b",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 150,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit151-db2a520",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 151,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit152-d21c6f3",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 152,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit153-dee5f84",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 153,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit154-264b905",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 154,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit155-c8e5a7c",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 155,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit156-ea6ad8c",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 156,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit157-459be24",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 157,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit158-f2f4426",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 158,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit159-9636764",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 159,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit160-1160a13",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 160,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit161-6e05ab3",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 161,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit162-9426fb1",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 162,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit163-430d8ab",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 163,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit164-e66062d",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 164,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit165-749b9e9",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 165,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit166-61be649",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 166,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit167-85a7fc5",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 167,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit168-453062b",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 168,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit169-4bbe72a",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 169,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit170-8cb1d20",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 170,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit171-081298d",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 171,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit172-d2a4be2",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 172,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit173-a4414ac",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 173,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit174-7ae1b31",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 174,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit175-46a44ad",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 175,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit176-292f100",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 176,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit177-f0fb497",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 177,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit178-a0c34c0",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 178,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit179-2b3a586",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 179,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit180-716d409",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 180,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit181-3748f15",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 181,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit182-c8ea99f",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 182,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit183-d9626e3",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 183,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit184-fadaad7",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 184,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit185-88c37fe",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 185,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit186-205c3b6",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 186,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit187-eb3ce85",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 187,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit188-94a8415",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 188,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit189-97b9c79",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 189,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit190-8a7c058",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 190,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit191-89051dd",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 191,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit192-962aa38",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 192,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit193-236054f",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 193,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit194-2dc99f0",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 194,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit195-354dca1",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 195,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit196-76ffb48",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 196,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit197-8b39ae4",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 197,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit198-e02eeac",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 198,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit199-988a6e2",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 199,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit200-9b3e11d",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 200,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit201-b5758e8",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 201,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit202-f049ec6",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 202,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit203-b5c7d11",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 203,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit204-87ad862",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 204,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit205-57a3191",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 205,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit206-07c8b1c",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 206,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit207-495299c",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 207,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit208-cae1602",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 208,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit209-e5ca381",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 209,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit210-a5d45e1",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 210,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit211-0c56348",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 211,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit212-a703901",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 212,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit213-53d935e",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 213,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit214-2f99de8",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 214,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit215-5b2e287",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 215,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit216-f12575e",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 216,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit217-3c14770",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 217,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit218-048a165",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 218,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit219-0a12a6d",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 219,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit220-2b0e143",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 220,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit221-87fd76c",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 221,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit222-13b5f42",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 222,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit223-79c92fe",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 223,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit224-8cb1a3a",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 224,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit225-c38b9b5",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 225,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit226-406d76b",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 226,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit227-53891ed",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 227,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit228-f3ae47e",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 228,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit229-56c8a86",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 229,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit230-7c18dd4",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 230,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit231-8564a44",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 231,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit232-8708212",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 232,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit233-2d20937",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 233,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit234-f6641b4",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 234,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit235-07516f4",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 235,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit236-b7d227e",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 236,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit237-f8fdd7e",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 237,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit238-b75c425",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 238,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit239-0d1f523",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 239,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit240-1e8a87e",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 240,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit241-d2b48e3",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 241,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit242-afeacc2",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 242,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit243-0f912a1",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 243,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit244-e9ef0e2",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 244,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit245-d2115d7",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 245,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit246-407319b",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 246,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit247-7623b28",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 247,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit248-b5dc400",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 248,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit249-7515903",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 249,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit250-e76c2a7",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 250,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit251-044e5ff",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 251,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit252-33fb9e2",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 252,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit253-c8373a6",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 253,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit254-e18292d",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 254,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit255-cfc78af",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 255,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit256-e1e673d",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 256,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit257-f045990",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 257,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit258-af86547",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 258,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit259-1d8ed49",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 259,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit260-7f38dcc",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 260,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit261-19380a6",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 261,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit262-0231702",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 262,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit263-e7382c3",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 263,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit264-686c80b",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 264,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit265-e7f2b2a",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 265,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit266-75ee83d",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 266,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit267-ce4e005",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 267,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit268-615be50",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 268,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit269-898a40f",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 269,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit270-77eb46b",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 270,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit271-1645054",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 271,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit272-e3964c8",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 272,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit273-79270de",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 273,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit274-de5ecb1",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 274,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit275-bbafee7",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 275,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit276-cdafa18",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 276,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit277-b583a4e",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 277,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit278-4067c10",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 278,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit279-960a720",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 279,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit280-0a8bad5",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 280,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit281-5691e2b",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 281,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit282-208fb55",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 282,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit283-8efb828",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 283,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit284-b5c4a10",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 284,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit285-ec616e5",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 285,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit286-4cdafcb",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 286,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit287-7c28e78",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 287,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit288-31b56d4",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 288,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit289-0ecfb38",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 289,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit290-dd23746",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 290,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit291-5b722f3",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 291,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit292-e4c0594",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 292,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit293-2305bf3",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 293,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit294-fcedade",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 294,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit295-a7a94d6",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 295,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit296-23bfadf",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 296,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit297-9cb31bc",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 297,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit298-6659256",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 298,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit299-bcd848f",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 299,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit300-12c3b2d",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 300,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit301-6e5e713",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 301,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit302-e0aaec8",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 302,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit303-d34b994",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 303,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit304-5d98166",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 304,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit305-fcc4ad0",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 305,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit306-52c6950",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 306,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit307-4443473",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 307,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit308-816d40f",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 308,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit309-2944a0a",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 309,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit310-1aa2fcc",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 310,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit311-1e2c78a",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 311,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit312-b1b436e",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 312,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit313-cd87067",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 313,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit314-4441105",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 314,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit315-27883de",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 315,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit316-aa27fcb",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 316,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit317-e7b3c43",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 317,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit318-af4475e",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 318,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit319-99b3fb4",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 319,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit320-0ed37f6",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 320,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit321-61c35d0",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 321,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit322-131fe3c",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 322,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit323-8a34ab5",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 323,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit324-6cc69a7",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 324,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit325-1c6022d",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 325,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit326-bf3b987",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 326,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit327-7adc349",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 327,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit328-3ed5ddf",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 328,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit329-444f915",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 329,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit330-606dfef",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 330,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit331-cdfd13f",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 331,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit332-ae32fb2",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 332,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit333-ad7d05b",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 333,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit334-8119807",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 334,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit335-25857aa",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 335,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit336-7651c68",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 336,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit337-cea59e0",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 337,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit338-a8d2c04",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 338,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit339-cf4b5f2",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 339,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit340-f19d11b",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 340,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit341-e94eb09",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 341,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit342-42c1804",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 342,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit343-e960e20",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 343,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit344-08e97a7",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 344,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit345-9d734d3",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 345,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit346-0432d12",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 346,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit347-7cd66c2",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 347,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit348-3a2d83a",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 348,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit349-095143f",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 349,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit350-d5e7092",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 350,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit351-1d01ecb",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 351,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit352-8326de4",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 352,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit353-f78fa69",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 353,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit354-de78918",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 354,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit355-7ab3f70",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 355,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit356-06357ed",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 356,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit357-174a0fb",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 357,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit358-90b1b42",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 358,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit359-9a568ca",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 359,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit360-6ffb3d4",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 360,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit361-4659f31",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 361,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit362-133b636",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 362,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit363-0a07576",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 363,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit364-2f706b0",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 364,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit365-c04203b",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 365,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit366-37bc6e4",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 366,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit367-efcb4a6",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 367,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit368-d6c5ae7",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 368,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit369-ac9dba8",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 369,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit370-0b47869",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 370,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit371-c0b8c53",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 371,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit372-d3e6bc6",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 372,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit373-8fd752e",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 373,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit374-84e0606",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 374,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit375-c6927b7",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 375,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit376-4ee0b70",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 376,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit377-328c1e6",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 377,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit378-fe05991",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 378,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit379-1d2c309",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 379,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit380-175707c",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 380,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit381-3eeceb7",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 381,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit382-ff5d73a",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 382,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit383-df1ef99",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 383,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit384-89c84fd",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 384,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit385-4e12d26",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 385,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit386-b1ac2ab",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 386,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit387-7aed3e3",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 387,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit388-fbb61b0",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 388,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit389-c73ce55",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 389,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit390-700ce81",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 390,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit391-c90fda0",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 391,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit392-3e0ab48",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 392,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit393-a9d37a2",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 393,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit394-b16169a",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 394,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit395-e933585",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 395,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit396-d935929",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 396,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit397-006b6f2",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 397,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit398-18704f9",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 398,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit399-76b5b67",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 399,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit400-99489f8",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 400,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit401-d52e6cb",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 401,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit402-5f98ee1",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 402,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit403-b8af214",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 403,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit404-52a6c5f",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 404,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit405-b0dd241",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 405,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit406-b63f5e4",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 406,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit407-d874068",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 407,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit408-404932f",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 408,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit409-7c4eb83",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 409,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit410-453c4ab",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 410,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit411-3f9571e",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 411,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit412-79a0718",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 412,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit413-411a015",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 413,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit414-27afe15",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 414,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit415-448f86a",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 415,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit416-60e6465",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 416,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit417-3f89a06",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 417,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit418-161dcc3",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 418,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit419-8e64248",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 419,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit420-845d07c",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 420,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit421-08b3911",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 421,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit422-ca268bf",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 422,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit423-ab05040",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 423,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit424-ba7fe69",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 424,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit425-eaec83e",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 425,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit426-8c6e884",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 426,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit427-d7bdc17",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 427,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit428-39a4ce8",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 428,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit429-6f1da8c",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 429,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit430-4faa6bc",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 430,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit431-6f5febe",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 431,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit432-2c41b66",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 432,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit433-7dbac0b",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 433,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit434-068c47c",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 434,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit435-bdb7bb8",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 435,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit436-337a6db",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 436,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit437-c151d19",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 437,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit438-49d7f26",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 438,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit439-935645d",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 439,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit440-1f89400",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 440,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit441-5546a7f",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 441,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit442-6fcfbd2",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 442,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit443-dbfcb40",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 443,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit444-4cae8fd",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 444,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit445-a92d4ca",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 445,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit446-0d6f484",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 446,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit447-de47ffe",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 447,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit448-639a211",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 448,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit449-918213b",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 449,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit450-a5db6a6",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 450,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit451-6968c62",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 451,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit452-3d41d14",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 452,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit453-070578c",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 453,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit454-2554e37",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 454,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit455-ebc381a",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 455,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit456-727432b",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 456,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit457-133e3ca",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 457,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit458-d0ffe6e",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 458,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit459-e72895f",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 459,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit460-585c7ee",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 460,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit461-21d702e",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 461,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit462-ab8876d",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 462,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit463-35126b9",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 463,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit464-bce7e8a",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 464,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit465-7011e5f",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 465,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit466-849ac14",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 466,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit467-34431d2",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 467,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit468-8a499b5",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 468,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit469-fe2bbbb",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 469,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit470-7b0c0a0",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 470,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit471-867e4e2",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 471,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit472-c61253b",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 472,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit473-721c83f",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 473,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit474-3f72686",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 474,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit475-f3419fa",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 475,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit476-bdf23d0",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 476,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit477-7fcc8e0",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 477,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit478-bb94595",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 478,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit479-1050c84",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 479,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit480-07a5a65",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 480,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit481-179b1fb",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 481,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit482-83ce4de",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 482,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit483-66f8339",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 483,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit484-9bf82c0",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 484,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit485-e20d4f6",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 485,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit486-9b3cc18",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 486,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit487-415ffdb",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 487,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit488-a21bafe",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 488,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit489-e355db3",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 489,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit490-efba2d4",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 490,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit491-dbcb94d",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 491,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit492-20cc08d",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 492,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit493-8cb7346",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em deploy",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 493,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit494-baf67f9",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 494,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit495-95ae8ed",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em build",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 495,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit496-f13ffb3",
+    "autor": "sistema",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 496,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit497-b72ccb3",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 497,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit498-798db91",
+    "autor": "bot",
+    "mensagem": "auto: atualização automática em database",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 498,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  },
+  {
+    "hash": "crit499-dfef553",
+    "autor": "ci-cd",
+    "mensagem": "auto: atualização automática em config",
+    "timestamp": "2024-01-15 10:00:00",
+    "ordem_original": 499,
+    "branch": "main",
+    "arquivos_alterados": [
+      "pom.xml",
+      "package.json",
+      "Dockerfile",
+      "config.properties"
+    ]
+  }
+]
