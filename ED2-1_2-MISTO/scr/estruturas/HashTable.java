@@ -2,16 +2,16 @@ package estruturas;
 
 import java.util.LinkedList;
 
-public class HashTable<AnyType> {
-    private LinkedList<Entry<AnyType>>[] tabela;
+public class HashTable<T> {
+    private LinkedList<Entry<T>>[] tabela;
     private int capacidade;
     private int tamanho;
 
-    public static class Entry<AnyType> {
-        AnyType chave;
-        AnyType valor;
+    public static class Entry<T> {
+        T chave;
+        T valor;
 
-        public Entry(AnyType chave, AnyType valor) {
+        public Entry(T chave, T valor) {
             this.chave = chave;
             this.valor = valor;
         }
@@ -27,9 +27,10 @@ public class HashTable<AnyType> {
         }
     }
 
-    private int hash(AnyType chave) {
-        return Math.abs(chave.hashCode()) % capacidade;
+    private int hash(T chave) {
+        return (chave.hashCode() & Integer.MAX_VALUE) % capacidade;
     }
+
 
     public boolean isEmpty() {
         return tamanho == 0;
@@ -43,7 +44,7 @@ public class HashTable<AnyType> {
         for (int i = 0; i < capacidade; i++) {
             if (!tabela[i].isEmpty()) {
                 System.out.print("Índice " + i + ": ");
-                for (Entry<AnyType> entry : tabela[i]) {
+                for (Entry<T> entry : tabela[i]) {
                     System.out.print("[" + entry.chave + "=" + entry.valor + "] ");
                 }
                 System.out.println();
@@ -52,23 +53,39 @@ public class HashTable<AnyType> {
     }
 
 
-    public void chainedHashInsert(Entry<AnyType> x) {
+
+    public void chainedHashInsert(Entry<T> x) {
         int i = hash(x.chave);
+        for (Entry<T> e : tabela[i]) {
+            if (e.chave.equals(x.chave)) {
+                return;
+            }
+        }
         tabela[i].addFirst(x);
         tamanho++;
     }
 
-    public void chainedHashDelete(Entry<AnyType> x) {
+    public void chainedHashDelete(Entry<T> x) {
         int i = hash(x.chave);
-        boolean removed = tabela[i].remove(x);
-        if (removed) {
+
+        Entry<T> toRemove = null;
+        for (Entry<T> e : tabela[i]) {
+            if (e.chave.equals(x.chave)) {
+                toRemove = e;
+                break;
+            }
+        }
+        if (toRemove != null) {
+            tabela[i].remove(toRemove);
             tamanho--;
         }
     }
 
-    public Entry<AnyType> chainedHashSearch(AnyType chave) {
+
+
+    public Entry<T> chainedHashSearch(T chave) {
         int i = hash(chave);
-        for (Entry<AnyType> e : tabela[i]) {
+        for (Entry<T> e : tabela[i]) {
             if (e.chave.equals(chave)) {
                 return e;
             }
