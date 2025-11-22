@@ -15,6 +15,38 @@ public class HashTable<T> {
             this.chave = chave;
             this.valor = valor;
         }
+
+        public T getValor() {
+            return valor;
+        }
+
+        public T getChave() {
+            return chave;
+        }
+    }
+
+    public LinkedList<Entry<T>>[] getTabela() {
+        return tabela;
+    }
+
+    public void setTabela(LinkedList<Entry<T>>[] tabela) {
+        this.tabela = tabela;
+    }
+
+    public int getCapacidade() {
+        return capacidade;
+    }
+
+    public void setCapacidade(int capacidade) {
+        this.capacidade = capacidade;
+    }
+
+    public int getTamanho() {
+        return tamanho;
+    }
+
+    public void setTamanho(int tamanho) {
+        this.tamanho = tamanho;
     }
 
     public HashTable(int capacidade) {

@@ -2,65 +2,51 @@ package algoritmos;
 
 public class HeapSort {
 
-    // Função para construir o Max-Heap
-    public static void buildMaxHeap(int[] A, int n) {
-        // Inicia do último nó não folha até a raiz (n/2)
-        for (int i = n / 2; i >= 1; i--) {
+    // Corrigido para 0-based
+    public static void heapSort(int[] A, int n) {
+
+        // build max heap
+        buildMaxHeap(A, n);
+
+        // extrair elementos
+        for (int i = n - 1; i > 0; i--) {
+            swap(A, 0, i); // maior vai para o final
+            maxHeapify(A, 0, i); // heap reduzido
+        }
+    }
+
+    // Constrói max-heap em 0-based
+    private static void buildMaxHeap(int[] A, int n) {
+        // último nó interno fica em (n/2 - 1)
+        for (int i = n / 2 - 1; i >= 0; i--) {
             maxHeapify(A, i, n);
         }
     }
 
-    // Função para manter a propriedade do Max-Heap
-    public static void maxHeapify(int[] A, int i, int n) {
-        int l = left(i); // Índice do filho esquerdo
-        int r = right(i); // Índice do filho direito
-        int largest;
+    // Heapify 0-based
+    private static void maxHeapify(int[] A, int i, int n) {
+        int left = 2 * i + 1;     // filho esquerdo
+        int right = 2 * i + 2;    // filho direito
+        int largest = i;
 
-        // Verifica se o filho esquerdo é maior que o nó atual
-        if (l <= n && A[l - 1] > A[i - 1]) {
-            largest = l;
-        } else {
-            largest = i;
+        if (left < n && A[left] > A[largest]) {
+            largest = left;
         }
 
-        // Verifica se o filho direito é maior que o maior entre o nó atual e o filho esquerdo
-        if (r <= n && A[r - 1] > A[largest - 1]) {
-            largest = r;
+        if (right < n && A[right] > A[largest]) {
+            largest = right;
         }
 
-        // Se o maior não é o nó atual, troca e faz recursão
         if (largest != i) {
             swap(A, i, largest);
             maxHeapify(A, largest, n);
         }
     }
 
-    // Função para ordenar o array usando HeapSort
-    public static void heapSort(int[] A, int n) {
-        buildMaxHeap(A, n); // Constrói o Max-Heap
-        for (int i = n; i >= 2; i--) {
-            // Troca o primeiro elemento (maior) com o último
-            swap(A, 0, i - 1);
-            maxHeapify(A, 1, i - 1); // Restabelece a propriedade do Max-Heap
-        }
+    // troca padrão 0-based
+    private static void swap(int[] A, int i, int j) {
+        int tmp = A[i];
+        A[i] = A[j];
+        A[j] = tmp;
     }
-
-    // Função auxiliar para trocar dois elementos
-    public static void swap(int[] A, int i, int j) {
-        int temp = A[i - 1];
-        A[i - 1] = A[j - 1];
-        A[j - 1] = temp;
-    }
-
-    // Função auxiliar para obter o índice do filho esquerdo
-    public static int left(int i) {
-        return 2 * i;
-    }
-
-    // Função auxiliar para obter o índice do filho direito
-    public static int right(int i) {
-        return 2 * i + 1;
-    }
-
-
 }
