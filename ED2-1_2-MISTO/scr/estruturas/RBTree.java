@@ -1,21 +1,21 @@
 package estruturas;
 
-public class RBTree<AnyType extends Comparable<AnyType>> {
+public class RBTree<T extends Comparable<T>> {
     public static final boolean VERMELHO = true;
     public static final boolean PRETO = false;
-    public class NoRN<AnyType>{
-        AnyType elemento;
-        NoRN<AnyType> pai;
-        NoRN<AnyType> esquerda;
-        NoRN<AnyType> direita;
+    public class NoRN<T>{
+        T elemento;
+        NoRN<T> pai;
+        NoRN<T> esquerda;
+        NoRN<T> direita;
         boolean cor;
         int N;
 
-        NoRN(AnyType e){
+        NoRN(T e){
             this (e, null, null, false);
         }
 
-        NoRN(AnyType e, NoRN esq, NoRN dir, boolean cor){
+        NoRN(T e, NoRN esq, NoRN dir, boolean cor){
             elemento = e;
             esquerda = esq;
             direita = dir;
@@ -25,11 +25,11 @@ public class RBTree<AnyType extends Comparable<AnyType>> {
         }
     }
 
-    private NoRN<AnyType> root;
+    private NoRN<T> root;
     public RBTree(){this.root = null;}
 
-    public void leftRotate(NoRN<AnyType> x) {
-        NoRN<AnyType> y = x.direita;
+    public void leftRotate(NoRN<T> x) {
+        NoRN<T> y = x.direita;
         x.direita = y.esquerda;
 
         if (y.esquerda != null) {
@@ -50,8 +50,8 @@ public class RBTree<AnyType extends Comparable<AnyType>> {
         x.pai = y;
     }
 
-    public void rightRotate(NoRN<AnyType> x) {
-        NoRN<AnyType> y = x.esquerda;
+    public void rightRotate(NoRN<T> x) {
+        NoRN<T> y = x.esquerda;
         x.esquerda = y.direita;
 
         if (y.direita != null) {
@@ -72,9 +72,9 @@ public class RBTree<AnyType extends Comparable<AnyType>> {
         x.pai = y;
     }
 
-    public void rbInsert(NoRN<AnyType> z) {
-        NoRN<AnyType> y = null;
-        NoRN<AnyType> x = root;
+    public void rbInsert(NoRN<T> z) {
+        NoRN<T> y = null;
+        NoRN<T> x = root;
 
         while (x != null) {
             y = x;
@@ -103,10 +103,10 @@ public class RBTree<AnyType extends Comparable<AnyType>> {
         rbInsertFixup(z);
     }
 
-    public void rbInsertFixup(NoRN<AnyType> z) {
+    public void rbInsertFixup(NoRN<T> z) {
         while (z.pai != null && z.pai.cor == VERMELHO) {
             if (z.pai == z.pai.pai.esquerda) {
-                NoRN<AnyType> y = z.pai.pai.direita;
+                NoRN<T> y = z.pai.pai.direita;
                 if (y != null && y.cor == VERMELHO) {
                     z.pai.cor = PRETO;
                     y.cor = PRETO;
@@ -122,7 +122,7 @@ public class RBTree<AnyType extends Comparable<AnyType>> {
                     rightRotate(z.pai.pai);
                 }
             } else {
-                NoRN<AnyType> y = z.pai.pai.esquerda;
+                NoRN<T> y = z.pai.pai.esquerda;
                 if (y != null && y.cor == VERMELHO) {
                     z.pai.cor = PRETO;
                     y.cor = PRETO;
@@ -143,9 +143,9 @@ public class RBTree<AnyType extends Comparable<AnyType>> {
         root.cor = PRETO;
     }
 
-    public NoRN<AnyType> rbDelete(NoRN<AnyType> z) {
-        NoRN<AnyType> y;
-        NoRN<AnyType> x;
+    public NoRN<T> rbDelete(NoRN<T> z) {
+        NoRN<T> y;
+        NoRN<T> x;
 
         if (z.esquerda == null || z.direita == null) {
             y = z;
@@ -182,12 +182,12 @@ public class RBTree<AnyType extends Comparable<AnyType>> {
         return y;
     }
 
-    public NoRN<AnyType> treeSuccessor(NoRN<AnyType> z) {
+    public NoRN<T> treeSuccessor(NoRN<T> z) {
         if (z.direita != null) {
             return treeMin(z.direita);
         }
 
-        NoRN<AnyType> y = z.pai;
+        NoRN<T> y = z.pai;
         while (y != null && z == y.direita) {
             z = y;
             y = y.pai;
@@ -195,17 +195,17 @@ public class RBTree<AnyType extends Comparable<AnyType>> {
         return y;
     }
 
-    public NoRN<AnyType> treeMin(NoRN<AnyType> x) {
+    public NoRN<T> treeMin(NoRN<T> x) {
         while (x.esquerda != null) {
             x = x.esquerda;
         }
         return x;
     }
 
-    public void rbDeleteFixup(NoRN<AnyType> x) {
+    public void rbDeleteFixup(NoRN<T> x) {
         while (x != root && x.cor == PRETO) {  
             if (x == x.pai.esquerda) {
-                NoRN<AnyType> w = x.pai.direita;
+                NoRN<T> w = x.pai.direita;
 
                 if (w.cor == VERMELHO) {
                     w.cor = PRETO;
@@ -232,7 +232,7 @@ public class RBTree<AnyType extends Comparable<AnyType>> {
                     x = root;
                 }
             } else {
-                NoRN<AnyType> w = x.pai.esquerda;
+                NoRN<T> w = x.pai.esquerda;
 
                 if (w.cor == VERMELHO) {
                     w.cor = PRETO;
